@@ -1,0 +1,6 @@
+C:\Users\TRAWA\Desktop\LordOfMoney-main\LordOfMoneyConsoleMS\obj\Debug\LordOfMoneyConsoleMS.csprojAssemblyReference.cache
+C:\Users\TRAWA\Desktop\LordOfMoney-main\LordOfMoneyConsoleMS\obj\Debug\LordOfMoneyConsoleMS.csproj.CoreCompileInputs.cache
+C:\Users\TRAWA\Desktop\LordOfMoney-main\LordOfMoneyConsoleMS\bin\Debug\LordOfMoneyConsoleMS.exe
+C:\Users\TRAWA\Desktop\LordOfMoney-main\LordOfMoneyConsoleMS\bin\Debug\LordOfMoneyConsoleMS.pdb
+C:\Users\TRAWA\Desktop\LordOfMoney-main\LordOfMoneyConsoleMS\obj\Debug\LordOfMoneyConsoleMS.exe
+C:\Users\TRAWA\Desktop\LordOfMoney-main\LordOfMoneyConsoleMS\obj\Debug\LordOfMoneyConsoleMS.pdb
